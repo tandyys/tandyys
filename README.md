@@ -4,6 +4,14 @@
 ### For now, I'm more likely to work on IOs Development projects (IOs, IpadOS, WatchOS, MacOS, & VisionOS) using all apple technologies and frameworks!
 ---
 ### Tech stack I've used :
+### - Mobile Development
+<div align="center">
+	<code><img width="100" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" title="Swift"/></code>
+	<code><img width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"/></code>
+	<code><img width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" title="Dart"/></code>
+</div>
+### - Web Development
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
