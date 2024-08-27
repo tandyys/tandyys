@@ -28,10 +28,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
 
 ---
-# 🌐 I also write some articles! Kindly check my articles on Medium.
+# 🌐 I also write some articles! Kindly check my articles on <a href="https://medium.com/@tansabana12">Medium.</a>
 <div align="center">
   <code>
-    <a href="https://medium.com/@tansabana12" style="font-size: 16px, font-style: normal, color: #333, text-decoration: none">Click me to read the articles!</a>
+    <a href="https://medium.com/@tansabana12">Here!</a>
   </code>
   <br/>
   <code><img width="250" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Medium"/></code>
