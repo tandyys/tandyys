@@ -27,9 +27,12 @@
 ### - Others
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tandyys&theme=dark&hide_border=false)
+---
+# 🌐 I also write some articles! Kindly check my articles on Medium.
+<div align="center">
+  <code><img width="250" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Medium"/></code>
+</div>
 
 ---
-
-## 🌐 I also write some articles! Kindly check my articles on Medium.
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tandyys) 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tandyys&theme=dracula&hide_border=false)<br/>
