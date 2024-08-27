@@ -5,11 +5,12 @@
 ---
 ### Tech stack I've used :
 ### - Mobile Development
-<div align="center">
+<div align="left">
 	<code><img width="100" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" title="Swift"/></code>
 	<code><img width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"/></code>
 	<code><img width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" title="Dart"/></code>
 </div>
+
 ### - Web Development
 
 <div align="center">
