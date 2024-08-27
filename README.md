@@ -3,7 +3,7 @@
 ### I've been working with Fullstack Web Development, Data Mining (Data analyst & Data Scientist project), Machine Learning, and iOS Developer.
 ### For now, I'm more likely to work on iOS Development projects (iOS, IpadOS, WatchOS, MacOS, & VisionOS) using all apple technologies and frameworks!
 ---
-### Tech stack I've used :
+## Tech stack I've used :
 ### - Mobile Development
 <div align="left">
 	<code><img width="100" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" title="Swift"/></code>
