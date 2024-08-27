@@ -34,7 +34,7 @@
     <a href="https://medium.com/@tansabana12">Click me to read the articles!</a>
   </code>
   <br/>
-  <code><img width="250" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Medium"/></code>
+  <code><img width="180" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Medium"/></code>
 </div>
 
 ---
