@@ -1,7 +1,7 @@
 ## "Hello World!"
 ### I am *Tandy Sabana*, a final year Computer Science student at Bina Nusantara University 🦾🤓. With high curiosity and enthusiasm on everything related to ✨***Technology***✨
-### I've been working with Fullstack Web Development, Data Mining (Data analyst & Data Scientist project), Machine Learning, and IOs Developer.
-### For now, I'm more likely to work on IOs Development projects (IOs, IpadOS, WatchOS, MacOS, & VisionOS) using all apple technologies and frameworks!
+### I've been working with Fullstack Web Development, Data Mining (Data analyst & Data Scientist project), Machine Learning, and iOS Developer.
+### For now, I'm more likely to work on iOS Development projects (iOS, IpadOS, WatchOS, MacOS, & VisionOS) using all apple technologies and frameworks!
 ---
 ### Tech stack I've used :
 ### - Mobile Development
