@@ -30,7 +30,7 @@
 ---
 # 🌐 I also write some articles! Kindly check my articles on Medium.
 <div align="center">
-  <code><img width="250" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Medium"/></code>
+  <code><img width="250" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="https://medium.com/@tansabana12" alt="Medium" title="Medium"/></code>
 </div>
 
 ---
