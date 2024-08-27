@@ -2,6 +2,9 @@
 ### I am *Tandy Sabana*, a final year Computer Science student at Bina Nusantara University 🦾🤓
 ### With high curiosity and enthusiasm on everything related to ✨***Technology***✨
 ---
+### I've been working with Fullstack Web Development, Data Mining (Data analyst & Data Scientist project), Machine Learning, and IOs Developer.
+### For now, I'm more likely to work on IOs Development projects (IOs, IpadOS, WatchOS, MacOS, & VisionOS) -> With all apple technologies and frameworks!
+
 ### Tech stack I've used :
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
@@ -42,5 +45,3 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
 </div>
-
----
