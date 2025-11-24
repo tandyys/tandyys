@@ -1,6 +1,6 @@
 ## "Hello You!"
 ### I've been working with Web Development, Data Mining (Data analyst & Data Scientist project), Machine Learning, Backend Development, and iOS Development (Basically anything 🤓).
-### For now, I'm more likely to work on iOS Development projects (iOS, IpadOS, WatchOS, MacOS, & VisionOS) using all apple technologies and frameworks!
+
 ---
 ## Tech stack I've used :
 ### - Mobile Development
